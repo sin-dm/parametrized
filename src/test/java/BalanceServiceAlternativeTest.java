@@ -19,7 +19,8 @@ public class BalanceServiceAlternativeTest {
         return new Object[][] {
                 {100, -110},
                 {200, -210},
-                {300, -400}
+                {300, -400},
+                {500, -510}
         };
     }
 }
